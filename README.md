@@ -7,7 +7,11 @@ Note this was created with very little additional resources / 3d knowledge so so
 Everything is in 1 file for easy compilation.
 
 Controls:
+
 WASD move
+
 xc move down / up
+
 qe look left / right
+
 rf look up / down
